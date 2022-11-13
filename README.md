@@ -20,3 +20,9 @@ Your work will help improve the shopping experience for everyone involved.
 Customers will receive more tailored recommendations while online retailers may increase their sales.
 
 -----
+
+## Evaluation
+
+Submissions are evaluated on Recall@20 for each action type, and the three recall values are weight-averaged
+
+-----
