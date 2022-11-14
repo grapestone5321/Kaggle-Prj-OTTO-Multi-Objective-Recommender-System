@@ -25,4 +25,6 @@ Customers will receive more tailored recommendations while online retailers may 
 
 Submissions are evaluated on Recall@20 for each action type, and the three recall values are weight-averaged
 
+- Recall
+
 -----
