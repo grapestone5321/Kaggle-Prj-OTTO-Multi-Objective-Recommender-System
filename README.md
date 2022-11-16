@@ -27,4 +27,6 @@ Submissions are evaluated on Recall@20 for each action type, and the three recal
 
 - Recall
 
+https://en.wikipedia.org/wiki/Evaluation_measures_(information_retrieval)#Recall
+
 -----
